@@ -1,0 +1,44 @@
+<site title="Halloween Horror Nights: %PAGE%" menu="true" preloaderDepth="middle" assetPath="assets/" indexFirst="false">
+  <page id="index" src="index.swf" title="Universal Palace Theater Entrance" bytes="142644">
+    <asset id="bgm_lobby" src="audio/bgm_lobby.mp3" preload="true" bytes="455244"/>
+    <asset id="ambience_thunder" src="audio/ambience_thunder.mp3" preload="true" bytes="533880"/>
+    <page id="nav" src="nav.swf" title="Universal Palace Theater Entrance" depth="top" bytes="265571">
+      <page id="landing" title="Universal Palace Theater Entrance" src="landing.swf" menu="false" route="universal-palace-theater-entrance" bytes="821861">
+        <asset id="video_usher_long" src="video/usher_long.flv" preload="false" bytes="7543383"/>
+      </page>
+      <page id="lobby" title="Universal Palace Theater Lobby" src="lobby.swf" menu="false" route="universal-palace-theater-lobby" bytes="1091971">
+        <asset id="video_usher" src="video/usher.flv" preload="true" bytes="1097078"/>
+        <asset id="video_saw" src="video/saw.flv" preload="false" bytes="1621785"/>
+        <asset id="video_wolfman" src="video/wolfman.flv" preload="false" bytes="2142649"/>
+        <asset id="video_chucky" src="video/chucky.flv" preload="false" bytes="2615062"/>
+        <asset id="video_dracula" src="video/dracula.flv" preload="false" bytes="1444459"/>
+        <asset id="video_frankenstein" src="video/frankenstein.flv" preload="false" bytes="1517657"/>
+        <asset id="video_cleaver" src="video/cleaver.flv" preload="false" bytes="2250135"/>
+        <asset id="video_spawning" src="video/spawning.flv" preload="false" bytes="1491573"/>
+        <asset id="video_balcony" src="video/balcony.flv" preload="false" bytes="1290215"/>
+      </page>
+      <page id="house_saw" title="Haunted House: SAW" src="house_saw.swf" menu="false" route="haunted-houses/saw" bytes="1118972">
+        <asset id="bgm_house_saw" src="audio/bgm_house_saw.mp3" preload="true" bytes="194100"/>
+      </page>
+      <page id="house_wolfman" title="Haunted House: The Wolfman" src="house_wolfman.swf" menu="false" route="haunted-houses/the-wolfman" bytes="1670001">
+        <asset id="bgm_house_wolfman" src="audio/bgm_house_wolfman.mp3" preload="true" bytes="204396"/>
+      </page>
+      <page id="house_chucky" title="Haunted House: Chucky" src="house_chucky.swf" menu="false" route="haunted-houses/chucky-friends-til-the-end" bytes="1183643">
+        <asset id="bgm_house_chucky" src="audio/bgm_house_chucky.mp3" preload="true" bytes="204396"/>
+      </page>
+      <page id="house_dracula" title="Haunted House: Dracula" src="house_dracula.swf" menu="false" route="haunted-houses/dracula-legacy-in-blood" bytes="1797408">
+        <asset id="bgm_house_dracula" src="audio/bgm_house_dracula.mp3" preload="true" bytes="204396"/>
+      </page>
+      <page id="house_frankenstein" title="Haunted House: Frankenstein" src="house_frankenstein.swf" menu="false" route="haunted-houses/frankenstein-creation-of-the-damned" bytes="1924613">
+        <asset id="bgm_house_frankenstein" src="audio/bgm_house_frankenstein.mp3" preload="true" bytes="264768"/>
+      </page>
+      <page id="house_cleaver" title="Haunted House: Leave It To Cleaver" src="house_cleaver.swf" menu="false" route="haunted-houses/leave-it-to-cleaver" bytes="1236808">
+        <asset id="bgm_house_cleaver" src="audio/bgm_house_cleaver.mp3" preload="true" bytes="204396"/>
+      </page>
+      <page id="house_spawning" title="Haunted House: The Spawning" src="house_spawning.swf" menu="false" route="haunted-houses/the-spawning" bytes="1741065">
+        <asset id="bgm_house_spawning" src="audio/bgm_house_spawning.mp3" preload="true" bytes="256812"/>
+      </page>
+      <page id="balcony" title="Universal Palace Theater Balcony" src="balcony.swf" menu="false" route="universal-palace-theater-balcony/scarezones-and-shows" bytes="3498179"/>
+    </page>
+  </page>
+</site>
