@@ -8,6 +8,8 @@
 <link rel="stylesheet" type="text/css" href="font.css" />
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script src='javascript/genericpopwin.js' language="javascript" type="text/javascript"></script>
+	<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -156,7 +158,7 @@ function MM_swapImage() { //v3.0
 </table>
 <center><span class="biegetext"><a class="linksmall" STYLE="text-decoration:none" href="http://www.universalorlando.com/copyright.html" target="_blank"><br />
 
-  SAW – © 2004 Saw Productions, Inc. All Rights Reserved.<BR />Universal elements and all related indicia TM &amp; © 2009 Universal Studios. © 2009 Universal Orlando. All rights reserved.<br />
+  SAW Â– Â© 2004 Saw Productions, Inc. All Rights Reserved.<BR />Universal elements and all related indicia TM &amp; Â© 2009 Universal Studios. Â© 2009 Universal Orlando. All rights reserved.<br />
   </a><a class="linksmall" href="http://www.universalorlando.com/terms_of_use.html" target="_blank">TERMS OF USE</a> | 
   <a class="linksmall" href="http://www.universalorlando.com/privacy_policy.html" target="_blank">PRIVACY POLICY</a>  | <a href="http://media.universalorlando.com/halloween" target="_blank" class="linksmall">MEDIA RELATIONS 
   </a></span><BR />
