@@ -1,0 +1,170 @@
+/*HHN Tickets Layout*/
+.ticket_box {
+	float:left;
+	margin: 0 auto;
+	width: 750px
+}
+
+.ticket_box .fl_res {
+	float:left;
+	background:url(images/tkt1_bg.gif) bottom center no-repeat;
+	padding:60px 2px 13px 2px;
+	width:245px;
+	height: 1%;
+} 
+
+.ticket_box .fear_pass {
+	float:left;
+	background:url(images/tkt2_bg.gif) bottom center no-repeat;
+	padding:60px 2px 13px 2px;
+	width:245px;
+	height: 1%;
+} 
+
+.ticket_box .express {
+	float:left;
+	background:url(images/tkt3_bg.gif) bottom center no-repeat;
+	padding:60px 2px 13px 2px;
+	width:245px;
+	height: 1%;
+}
+
+.ticket_box .prem_pref {
+	float:left;
+	background:url(images/tkt4_bg.gif) bottom center no-repeat;
+	padding:60px 2px 13px 2px;
+	width:245px;
+	height: 1%;
+}
+
+.ticket_box .ap_freq {
+	float:left;
+	background:url(images/tkt5_bg.gif) bottom center no-repeat;
+	padding:60px 2px 13px 2px;
+	width:245px;
+	height: 1%;
+}
+
+.ticket_box .premier {
+	float:left;
+	background:url(images/tkt6_bg.gif) bottom center no-repeat;
+	padding:60px 2px 13px 2px;
+	width:245px;
+	height: 1%;
+}
+
+.long_ticketbox {
+	float:left;
+	background:url(images/flres_gg_tkt_offers_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.ioa_ticketbox {
+	float:left;
+	background:url(images/flres_ioa_tkt_offers_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.tall_long_ticketbox {
+	float:left;
+	background:url(images/gg_tkt_offers_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1.0%;
+}
+
+.tall_long_ticketbox_new {
+	float:left;
+	background:url(images/extra_lg_long_tkt_offer_bg2.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:2.5%;
+}
+
+.rip_tour_ticketbox {
+	float:left;
+	background:url(images/rip_tour_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.long_ticketbox_short {
+	float:left;
+	background:url(images/hhn_long_tkt_offers_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.extra_long_ticketbox {
+	float:left;
+	background:url(images/extra_long_tkt_offers_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.eventinfobox {
+	float:left;
+	background:url(images/eventinfo_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+.eventinfo_box {
+	float:left;
+	background:url(images/extra_lg_long_tkt_offer_bg2.gif) bottom left no-repeat;
+	padding:50px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.passholder_nights_box {
+	float:left;
+	background:url(images/extra_lg_long_tkt_offer_bg2.gif) bottom left no-repeat;
+	padding:30px 30px 20px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.mobile {
+	float:left;
+	background:url(images/eventinfo_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.faqs {
+	float:left;
+	background:url(images/faq_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
+
+.survival_guide_box {
+	float:left;
+	background:url(images/surv_guide_bg.gif) bottom left no-repeat;
+	padding:0px 0px 0px 20px;
+	width: 740px;
+	margin: 0 auto;
+	height:1%;
+}
