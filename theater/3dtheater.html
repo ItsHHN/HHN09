@@ -22,6 +22,17 @@
 	var attributes = {id:"flashcontent"};
 	swfobject.embedSWF("main.swf", "flashcontent", "1000", "500", "8.0.0", "expressInstall.swf", flashvars, params, attributes);
 </script>
+	<script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("container");
+        container.appendChild(player);
+        player.load("main.swf");
+    });
+</script>
+<script src="https://itshhn.github.io/HHN09/ruffle.js"></script>
 <style type="text/css">
 	/*hide from ie on mac\*/
 	#flashcontent {
